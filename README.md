@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Twitter-Kopie_klar-blue?link=twitter.com%2Fkopie_klar)
+<div align="center">![Static Badge](https://img.shields.io/badge/Twitter-Kopie_klar-blue?link=twitter.com%2Fkopie_klar)</div>
 
 
 ### Hi there 👋
