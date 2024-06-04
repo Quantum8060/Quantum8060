@@ -7,4 +7,4 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quantum8060&show_icons=true&theme=radical)
-![summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum8060&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum8060)](https://github.com/anuraghazra/github-readme-stats)
