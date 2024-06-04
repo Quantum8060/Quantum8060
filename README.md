@@ -8,3 +8,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quantum8060&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum8060&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quantum8060&theme=github)
