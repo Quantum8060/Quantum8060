@@ -4,16 +4,18 @@
 
 
 
-# Hi there 👋
+# Hi There 👋
 
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=python,cs,c&theme=dark)](https://skillicons.dev)
+
+### Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum8060&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quantum8060&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quantum8060&theme=radical)
 
 
-### 習性
-・Python、C#勉強中
-
+### Features
 ・コードが汚い
 
 ・GitHubの使い方をよくわかっていない
