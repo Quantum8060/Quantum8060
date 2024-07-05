@@ -3,7 +3,7 @@
 # Hi There 👋
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=python,cs,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bots,discord,cs,c&theme=dark)](https://skillicons.dev)
 
 ## Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum8060&theme=radical)
