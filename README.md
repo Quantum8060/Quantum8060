@@ -1,6 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Twitter-Kopie_klar-blue?link=twitter.com%2Fkopie_klar) ![Static Badge](https://img.shields.io/badge/Discord-7984_at-darkblue?link=https%3A%2F%2Fdiscord.com%2Fusers%2F822458692473323560) ![](https://komarev.com/ghpvc/?username=Quantum8060)
 
 # Hi There 👋
+趣味とその延長で作ったやつを置いてます
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,bots,discord,cs,c&theme=dark)](https://skillicons.dev)
