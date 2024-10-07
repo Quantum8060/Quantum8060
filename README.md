@@ -4,7 +4,7 @@
 趣味とその延長で作ったやつを置いてます
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,cs,c,rust,nodejs,bots,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,c,rust,bots,discord&theme=dark)](https://skillicons.dev)
 
 ## Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum8060&theme=radical)
