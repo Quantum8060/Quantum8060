@@ -11,6 +11,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quantum8060&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quantum8060&theme=radical)
 
+<p align="left">
+  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sui8&show_icons=true" />
+  <!--<img alt="github stats" height="220px" src="https://github-readme-stats.vercel.app/api?username=Quantum8060&theme=tokyonight&show_icons=true" />-->
+</p>
+
 
 ## Features
 ・コードが汚い
